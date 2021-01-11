@@ -1,0 +1,97 @@
+{
+  "main": {
+    "name":"Arham Arshad",
+    "occupation":"Computer Science Student",
+    "description":"A dynamic, motivated, computer science student with excellent analytical skills and a proven work ethic to support all aspects of development and information technology. Strong organizational abilities with proven success completing previous co-op work terms, managing multiple academic projects and volunteering in society events. Out-of-the-box thinker who is comfortable working in teams or independently to ensure solutions consistently exceed goals.",
+    "image":"arham-arshad.JPG",
+    "bio":"Hi I'm Arham (he/him), a computer science student with a graduation date of December 2022. \n\n Until graduation? \n• I'm working on side projects related to programming, conducting research on software companies and always looking for a new challenge to complete!\n• I'm learning the fundamentals of computer science and its applications to develop processes and products that are both economical and technological.\n\n My aspirations \n• I want to drive change and make the world a better place. To me this means helping companies make their operations sustainable ーenvironmentally, economically, and socially. \n• I want to keep learning and growing both my interpersonal and technical skills so that I can strive to be the most successful version of myself. \n\n My interests \n Soccer, Conspiracy Theories, Traveling \n\n I'm always happy to support others and I love hearing different stories.",
+    "email": "Arham.Arshad@dal.ca",
+    "address":{
+      "city":"Halifax",
+      "state":"Nova Scotia"
+    },
+    "website": "http://www.arhamarshad.com",
+    "resumedownload":"Arham_Arshad_Resume-Portfolio.pdf",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/arshadarham/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/arhamarshad1",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"",
+    "education":[
+      {
+        "school":"Dalhousie University",
+        "degree":"Bachelors in Computer Science & Management",
+        "graduated":"September 2018 - Present",
+        "description":"So far in my degree, I've learned concepts in Software Development, Programming, Interdisciplinary Management and Micro-Organizational Behaviour"
+      }
+    ],
+    "work":[
+      {
+        "company":"Dalhousie University",
+        "title":"Research Analyst Intern ",
+        "years":"May 2020 - December 2020",
+        "description":"Conducted extensive research on Agile software development predicting correlations between exogenous and endogenous variables using mathematical regression models in R.\n Brought forth a strong understanding of research methods and data analysis by performing case meta-analysis and statistical analysis on Scrum case studies.\n \n Documented a research paper for publishing detailing the entire project.\n Organized and prioritized work to complete tasks in timely, efficient manner."
+      },
+      {
+        "company":"Dalhousie University",
+        "title":"Teaching Assistant",
+        "years":"September 2018 - Present",
+        "description":"Assisted professor with conducting tutorials and labs while also aiding students with their assignments and labs focusing on HTML, CSS and JavaScript.\n Graded labs and assignments along with providing weekly discussions with students.\n Worked with students individually and provided extra support at the faculty’s Learning Center.\n Other Duties include grading weekly quizzes, workbooks, essays and term project reports."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"70%"
+      },
+      {
+        "name":"Python",
+        "level":"65%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"HTML5",
+        "level":"85%"
+      },
+      {
+        "name":"SQL",
+        "level":"70%"
+      },
+      {
+        "name":"Php",
+        "level":"80%"
+      },
+      {
+        "name":"AWS",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"PictureGram ",
+        "category":"A content management system similar to that of Instagram",
+        "image":"picturegram.png",
+        "url":"https://github.com/arhamarshad1/PictureGram"
+      }
+    ]
+  }
+}
