@@ -35,7 +35,7 @@ class About extends Component {
                </div>
                <div className="columns download">
                   <p>
-                     <a href="public/Arham_Arshad_Resume-Portfolio.pdf" className="button"><i className="fa fa-download"></i>Resume</a>
+                     <a href="#" className="button" onClick="window.open('public/Arham_Arshad_Resume-Portfolio.pdf', '_blank', 'fullscreen=yes'); return false;"><i className="fa fa-download"></i>Resume</a>
                   </p>
                </div>
             </div>
