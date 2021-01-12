@@ -35,7 +35,7 @@ class About extends Component {
                </div>
                <div className="columns download">
                   <p>
-                     <iframe href={resumeDownload} className="button"><i className="fa fa-download"></i> Resume</iframe>
+                     <a href="public/Arham_Arshad_Resume-Portfolio.pdf" className="button"><i className="fa fa-download"></i> Resume</a>
                   </p>
                </div>
             </div>
