@@ -4,6 +4,7 @@
     "occupation":"Computer Science Student",
     "description":"Hello, world! I'm a developer & designer",
     "image":"arham-arshad.jpg",
+    "logo": "dal.png",
     "bio":"Hi I'm Arham (he/him), a computer science student, studying at Dalhousie University located on the East coast of Canada. Currently I'm working on side projects related to programming and web development, conducting statistical anlaysis and always looking for a new challenge to complete! I want to keep learning and improving both my interpersonal and technical skills so that I can strive to be the most successful version of myself.",
     "email": "Arham.Arshad@dal.ca",
     "address":{
@@ -32,7 +33,7 @@
         "school":"Dalhousie University",
         "degree":"Bachelors in Computer Science & Management",
         "graduated":"September 2018 - Present",
-        "description":"So far in my degree, I've learned concepts in Interdisciplinary Management, Micro-Organizational Behaviour, Fundamentals of Computer Programming\nObject-Oriented Programming\nPrinciples of Software Development\nDesign and Analysis of Algorithms\nDesign for User Experience\nBasic Organization of Computer Systems\nHuman Language and Technology\nMobile Application Development\nFile and Database Management\nAdvanced Web Technologies\n"
+        "description":"So far in my degree, I've learned concepts in Interdisciplinary Management, Micro-Organizational Behaviour, Fundamentals of Computer Programming,\nObject-Oriented Programming,\nPrinciples of Software Development,\nData Structures and Algorithms,\nDesign for User Experience,\nBasic Organization of Computer Systems,\nHuman Language and Technology,\nMobile Application Development,\nFile and Database Management,\nAdvanced Web Technologies\n"
       }
     ],
     "work":[
