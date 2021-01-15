@@ -2,7 +2,7 @@
   "main": {
     "name":"Arham Arshad",
     "occupation":"Computer Science Student",
-    "description":"HELLO, WORLD! I'M A DEVELOPER & DESIGNER",
+    "description":"Hello, world! I'm a developer & designer",
     "image":"arham-arshad.jpg",
     "bio":"Hi I'm Arham (he/him), a computer science student, studying at Dalhousie University located on the East coast of Canada. Currently I'm working on side projects related to programming and web development, conducting statistical anlaysis and always looking for a new challenge to complete! I want to keep learning and improving both my interpersonal and technical skills so that I can strive to be the most successful version of myself.",
     "email": "Arham.Arshad@dal.ca",
@@ -32,7 +32,7 @@
         "school":"Dalhousie University",
         "degree":"Bachelors in Computer Science & Management",
         "graduated":"September 2018 - Present",
-        "description":"So far in my degree, I've learned concepts in Software Development,\nProgramming, Interdisciplinary Management and Micro-Organizational Behaviour"
+        "description":"So far in my degree, I've learned concepts in Interdisciplinary Management, Micro-Organizational Behaviour, Fundamentals of Computer Programming\nObject-Oriented Programming\nPrinciples of Software Development\nDesign and Analysis of Algorithms\nDesign for User Experience\nBasic Organization of Computer Systems\nHuman Language and Technology\nMobile Application Development\nFile and Database Management\nAdvanced Web Technologies\n"
       }
     ],
     "work":[
@@ -40,13 +40,13 @@
         "company":"Dalhousie University",
         "title":"Research Analyst Intern ",
         "years":"May 2020 - December 2020",
-        "description":"Conducted extensive research on Agile software development predicting correlations between exogenous and endogenous variables using mathematical regression models in R.\n Brought forth a strong understanding of research methods and data analysis by performing case meta-analysis and statistical analysis on Scrum case studies.\n \n Documented a research paper for publishing detailing the entire project.\n Organized and prioritized work to complete tasks in timely, efficient manner."
+        "description":"Conducted extensive research on Agile software development predicting correlations between exogenous and endogenous variables using mathematical regression models in R.\n Brought forth a strong understanding of research methods and data analysis by performing case meta-analysis and statistical analysis on case studies that used Scrum practices.\n \n Documented a research paper for publishing detailing the entire project.\n Organized and prioritized work to complete tasks in timely, efficient manner."
       },
       {
         "company":"Dalhousie University",
         "title":"Teaching Assistant",
-        "years":"September 2018 - Present",
-        "description":"Assisted professor with conducting tutorials and labs while also aiding students with their assignments and labs focusing on HTML, CSS and JavaScript.\n Graded labs and assignments along with providing weekly discussions with students.\n Worked with students individually and provided extra support at the faculty’s Learning Center.\n Other Duties include grading weekly quizzes, workbooks, essays and term project reports."
+        "years":"September 2019 - Present",
+        "description":"Assisted professor by conducting tutorials and labs while also aiding students with their assignments focusing on HTML, CSS and JavaScript.\n Graded labs and assignments along with providing weekly discussions with students.\n Worked with students individually and provided extra support at the faculty’s Learning Center.\n Other Duties include grading weekly quizzes, workbooks, essays and term project reports."
       }
     ],
     "skills":[
@@ -95,6 +95,18 @@
         "category":"A content management system similar to that of Instagram",
         "image":"picturegram.png",
         "url":"https://github.com/arhamarshad1/PictureGram"
+      },
+      {
+        "title":"My Personal Website ",
+        "category":"Developed a portfolip website using ReactJS",
+        "image":"portfolio.png",
+        "url":"https://github.com/arhamarshad1/Portfolio"
+      },
+      {
+        "title":"Java Multithreading Chat Application ",
+        "category":"Used Java Socket Programming to develop a chat application",
+        "image":"multithread.png",
+        "url":"https://github.com/arhamarshad1/MultiThreading"
       }
     ]
   }
