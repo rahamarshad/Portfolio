@@ -113,6 +113,12 @@
         "category":"Used Java Socket Programming to develop a chat application",
         "image":"multithread.png",
         "url":"https://github.com/arhamarshad1/MultiThreading"
+      },
+      {
+        "title":"Audio Transcriber Application ",
+        "category":"Used Python to develop a Speech-to-Text Transcription Service on audio file uploads with Python and Flask using the SpeechRecognition module.",
+        "image":"audio.png",
+        "url":"https://github.com/arhamarshad1/AudioTranscriber"
       }
     ]
   }
