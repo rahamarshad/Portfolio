@@ -10,7 +10,6 @@ class About extends Component {
       var city = this.props.data.address.city;
       var state = this.props.data.address.state;
       var email = this.props.data.email;
-      //var resumeDownload = this.props.data.resumedownload;
     }
 
     return (
@@ -40,7 +39,6 @@ class About extends Component {
             </div>
          </div>
       </div>
-
    </section>
     );
   }
