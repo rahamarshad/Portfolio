@@ -94,25 +94,19 @@
         "title":"Halifax Explorer",
         "category":"An engaging and user-friendly website to facilitate exploration of activities and eateries in Halifax,",
         "image":"fementity.png",
-        "url":"https://github.com/CSCIX691DAL/fementity"
+        "url":"https://github.com/rahamarshad/Halifax-Explorer"
       },
       {
         "title":"My Personal Website ",
-        "category":"Developed a portfolip website using ReactJS",
+        "category":"Developed a portfolio website using ReactJS",
         "image":"portfolio.png",
-        "url":"https://github.com/arhamarshad1/Portfolio"
+        "url":"https://github.com/rahamarshad/Portfolio"
       },
       {
-        "title":"CSCI X691 Course Website for Dalhousie University",
-        "category":"Designed and set up CI/CD for computer science course website.",
+        "title":"FLight search",
+        "category":"Created an efficient search functionality to allow users to easily find flights based on specific criteria like destination or airport.",
         "image":"X691Website.png",
-        "url":"https://github.com/CSCIX691DAL/CSCIX691-website"
-      },
-      {
-        "title":"Canadian Way Driver Training Website ",
-        "category":"Worked with a client to redesign a driver training website and implement a backend system as well as continous deploymnet/continuous integration",
-        "image":"cwdt.png",
-        "url":"https://github.com/CSCIX691DAL/cwdt"
+        "url":"https://github.com/rahamarshad/Flight-search"
       }
     ]
   }
