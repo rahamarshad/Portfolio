@@ -37,10 +37,10 @@
     ],
     "work":[
       {
-        "company":"Colliers International",
-        "title":"Business Intelligence Analyst",
-        "years":"June 2021 - August 2022",
-        "description":"Advanced experience Power BI development and administration - Advanced experience building Analysis Services reporting models - Advanced proficiency in Developing visual reports, dashboards and KPI scorecards using Power BI desktop - Advanced level knowledge and experience connecting to data sources, importing data and transforming data (ETL) for Business Intelligence using SSIS packages and stored procedures - Advanced proficiency in building Dataflows to replace Analysis Services tabular models - Proficient in creating DAX queries in Power BI desktop - Expertise in using advance level calculations on the data set - Experience developing custom Power BI visuals using JSON files - Adept in developing, publishing and scheduling Power BI reports as per business requirements - Able to properly understand the business requirements and develop data models accordingly - Responsible for design methodology and project documentation - Knowledge and experience in prototyping, designing, and requirement analysis - Able to integrate Power BI reports into other applications using embedded analytics like Power BI Service (SaaS), or by API automation - Excellent in analytical thinking for translating data into informative visuals and reports - Knowledge and skills in secondary tools such as Microsoft Azure, SQL data warehouse, Visual Studio - Software languages: SQL, Python, DAX, M language"
+        "company":"Dalhousie University",
+        "title":"Volunteer",
+        "years":"March 2023 - April 2023",
+        "description":"Joined a collaborative food drive effort, collecting and delivering significant food donations to local food banks, directly aiding in community hunger relief"
       },
       {
         "company":"ACM, Association for Computing Machinery",
