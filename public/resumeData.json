@@ -79,6 +79,10 @@
       {
         "name":"HTML5",
         "level":"85%"
+      },
+      {
+        "name":"ReactJS",
+        "level":"85%"
       }
     ]
   },
@@ -87,7 +91,7 @@
       {
         "title":"Halifax Explorer",
         "category":"An engaging and user-friendly website to facilitate exploration of activities and eateries in Halifax,",
-        "image":"fementity.png",
+        "image":"halifax-explorer.png",
         "url":"https://github.com/rahamarshad/Halifax-Explorer"
       },
       {
@@ -99,7 +103,7 @@
       {
         "title":"FLight search",
         "category":"Created an efficient search functionality to allow users to easily find flights based on specific criteria like destination or airport.",
-        "image":"X691Website.png",
+        "image":"flight-search.png",
         "url":"https://github.com/rahamarshad/Flight-search"
       }
     ]
