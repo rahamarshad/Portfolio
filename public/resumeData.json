@@ -15,7 +15,7 @@
     "social":[
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/rahamarshad/",
+        "url":"https://www.linkedin.com/in/rahamarshad",
         "className":"fa fa-linkedin"
       },
       {
@@ -35,24 +35,24 @@
         "description":"In my degree, I've learned concepts in Interdisciplinary Management, Micro-Organizational Behaviour, Fundamentals of Computer Programming,\nObject-Oriented Programming,\nPrinciples of Software Development,\nData Structures and Algorithms,\nDesign for User Experience,\nBasic Organization of Computer Systems,\nFile and Database Management\n"
       }
     ],
-    "volunteering & leadership":[
+    "work":[
       {
-        "company":"Dalhousie University",
-        "title":"Volunteer",
-        "years":"March 2023 - April 2023",
-        "description":"Joined a collaborative food drive effort, collecting and delivering significant food donations to local food banks, directly aiding in community hunger relief."
+        "company":"Colliers International",
+        "title":"Business Intelligence Analyst",
+        "years":"June 2021 - August 2022",
+        "description":"Advanced experience Power BI development and administration - Advanced experience building Analysis Services reporting models - Advanced proficiency in Developing visual reports, dashboards and KPI scorecards using Power BI desktop - Advanced level knowledge and experience connecting to data sources, importing data and transforming data (ETL) for Business Intelligence using SSIS packages and stored procedures - Advanced proficiency in building Dataflows to replace Analysis Services tabular models - Proficient in creating DAX queries in Power BI desktop - Expertise in using advance level calculations on the data set - Experience developing custom Power BI visuals using JSON files - Adept in developing, publishing and scheduling Power BI reports as per business requirements - Able to properly understand the business requirements and develop data models accordingly - Responsible for design methodology and project documentation - Knowledge and experience in prototyping, designing, and requirement analysis - Able to integrate Power BI reports into other applications using embedded analytics like Power BI Service (SaaS), or by API automation - Excellent in analytical thinking for translating data into informative visuals and reports - Knowledge and skills in secondary tools such as Microsoft Azure, SQL data warehouse, Visual Studio - Software languages: SQL, Python, DAX, M language"
       },
       {
-        "company":"Froebel's International School",
-        "title":"Sports Captain",
-        "years":"February 2021 - Februaru 2022",
-        "description":"Joined a collaborative food drive effort, collecting and delivering significant food donations to local food banks, directly aiding in community hunger relief."
+        "company":"ACM, Association for Computing Machinery",
+        "title":"Web Application Developer Intern",
+        "years":"January 2021 - April 2021",
+        "description":"- Conducted extensive research on peer reviews and determined problems associated with peer reviews in scholarly journals such as bias and misconduct.\n- Developed, verified and validated a regression model using R that helps determine how the process of peer review could be structured to overcome the aforementioned problems.\n- Created an interactive web application using JavaScript to allow authors and reviewers at ACM Digital Library to generate a dynamic checklist based on each type of empirical study in software engineering. \n- Maintained and documented the quality of code with accordance to software development practices such as commenting, indentation, debugging and refactoring. \n- Produced and delivered a technical report detailing the entire project and areas of future research at a workshop about software engineering hosted by Evaluation and Assessment in Software Engineering (EASE)."
       },
       {
-        "company":"Do Your Bit",
-        "title":"Volunteer",
-        "years":"April 2020 - November 2020",
-        "description":"Organized fundraising and relief efforts during the Covid-19 pandemic, supporting over 400 families."
+        "company":"Natural Sciences and Engineering Research Council of Canada (NSERC)",
+        "title":"Research Analyst Intern ",
+        "years":"May 2020 - September 2020",
+        "description":"Conducted extensive research on Agile software development predicting correlations between exogenous and endogenous variables using mathematical regression models in R.\n Brought forth a strong understanding of research methods and data analysis by performing case meta-analysis and statistical analysis on case studies that used Scrum practices.\n \n Documented a research paper for publishing detailing the entire project.\n Organized and prioritized work to complete tasks in timely, efficient manner."
       }
     ],
     "skills":[
