@@ -35,24 +35,24 @@
         "description":"In my degree, I've learned concepts in Interdisciplinary Management, Micro-Organizational Behaviour, Fundamentals of Computer Programming,\nObject-Oriented Programming,\nPrinciples of Software Development,\nData Structures and Algorithms,\nDesign for User Experience,\nBasic Organization of Computer Systems,\nFile and Database Management\n"
       }
     ],
-    "work":[
+    "Volunteering & Leadership":[
       {
         "company":"Dalhousie University",
         "title":"Volunteer",
         "years":"March 2023 - April 2023",
-        "description":"Joined a collaborative food drive effort, collecting and delivering significant food donations to local food banks, directly aiding in community hunger relief"
+        "description":"Joined a collaborative food drive effort, collecting and delivering significant food donations to local food banks, directly aiding in community hunger relief."
       },
       {
-        "company":"ACM, Association for Computing Machinery",
-        "title":"Web Application Developer Intern",
-        "years":"January 2021 - April 2021",
-        "description":"- Conducted extensive research on peer reviews and determined problems associated with peer reviews in scholarly journals such as bias and misconduct.\n- Developed, verified and validated a regression model using R that helps determine how the process of peer review could be structured to overcome the aforementioned problems.\n- Created an interactive web application using JavaScript to allow authors and reviewers at ACM Digital Library to generate a dynamic checklist based on each type of empirical study in software engineering. \n- Maintained and documented the quality of code with accordance to software development practices such as commenting, indentation, debugging and refactoring. \n- Produced and delivered a technical report detailing the entire project and areas of future research at a workshop about software engineering hosted by Evaluation and Assessment in Software Engineering (EASE)."
+        "company":"Froebel's International School",
+        "title":"Sports Captain",
+        "years":"February 2021 - Februaru 2022",
+        "description":"Orchestrated training and strategies as a sports coach, steering sports teams to win multiple inter-school tournaments."
       },
       {
-        "company":"Natural Sciences and Engineering Research Council of Canada (NSERC)",
-        "title":"Research Analyst Intern ",
-        "years":"May 2020 - September 2020",
-        "description":"Conducted extensive research on Agile software development predicting correlations between exogenous and endogenous variables using mathematical regression models in R.\n Brought forth a strong understanding of research methods and data analysis by performing case meta-analysis and statistical analysis on case studies that used Scrum practices.\n \n Documented a research paper for publishing detailing the entire project.\n Organized and prioritized work to complete tasks in timely, efficient manner."
+        "company":"Do Your Bit",
+        "title":"Volunteer",
+        "years":"April 2020 - Novemberr 2020",
+        "description":"Organized fundraising and relief efforts during the Covid-19 pandemic, supporting over 400 families."
       }
     ],
     "skills":[
