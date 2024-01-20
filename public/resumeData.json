@@ -53,12 +53,6 @@
         "title":"Research Analyst Intern ",
         "years":"May 2020 - September 2020",
         "description":"Conducted extensive research on Agile software development predicting correlations between exogenous and endogenous variables using mathematical regression models in R.\n Brought forth a strong understanding of research methods and data analysis by performing case meta-analysis and statistical analysis on case studies that used Scrum practices.\n \n Documented a research paper for publishing detailing the entire project.\n Organized and prioritized work to complete tasks in timely, efficient manner."
-      },
-      {
-        "company":"Dalhousie University",
-        "title":"Teaching Assistant",
-        "years":"September 2019 - Present",
-        "description":"Assisted professor by conducting tutorials and labs while also aiding students with their assignments focusing on HTML, CSS and JavaScript.\n Graded labs and assignments along with providing weekly discussions with students.\n Worked with students individually and provided extra support at the faculty’s Learning Center.\n Other Duties include grading weekly quizzes, workbooks, essays and term project reports."
       }
     ],
     "skills":[
@@ -68,15 +62,15 @@
       },
       {
         "name":"Git",
-        "level":"60%"
+        "level":"69%"
       },
       {
         "name":"Python",
-        "level":"65%"
+        "level":"70%"
       },
       {
         "name":"JavaScript",
-        "level":"60%"
+        "level":"65%"
       },
       {
         "name":"CSS",
